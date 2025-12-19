@@ -1,0 +1,17 @@
+{
+    "alternatives": [
+        "A1_typhon",
+        "A2_drip_irrigation",
+        "A3_subirrigation",
+        "A4_center_pivot"
+    ],
+    "dms": [
+        {"id": "DM1", "scores": [0.462, 0.210, 0.191, 0.137]},
+        {"id": "DM2", "scores": [0.410, 0.300, 0.150, 0.140]},
+        {"id": "DM3", "scores": [0.132, 0.422, 0.279, 0.167]},
+        {"id": "DM4", "scores": [0.333, 0.205, 0.259, 0.203]},
+        {"id": "DM5", "scores": [0.315, 0.377, 0.069, 0.239]},
+        {"id": "DM6", "scores": [0.310, 0.281, 0.207, 0.202]}
+    ],
+    "parameters": {"alpha": 0.95, "B": 2}
+}
